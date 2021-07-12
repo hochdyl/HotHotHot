@@ -1,0 +1,5 @@
+{
+    "require": {
+        "chriskonnertz/bbcode": "^1.1"
+    }
+}
